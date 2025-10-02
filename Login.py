@@ -7,5 +7,6 @@ print("This is Nitish Testing")
 def sum():
     a=10
     b=20
-    return a+b
+    c=20
+    return a+b+c
 print(sum())
